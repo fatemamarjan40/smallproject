@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aust"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="27dp"
+        android:layout_y="28dp"
+        android:text="1.courses cover for 2.2"
+        android:textColor="@color/colorAccent"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/courseid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="47dp"
+        android:layout_y="94dp"
+        android:text="courses"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="24dp"
+        android:layout_y="182dp"
+        android:text="2.Routine for 2.2"
+        android:textColor="@color/colorAccent"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/routineid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="47dp"
+        android:layout_y="252dp"
+        android:text="Routine"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="14dp"
+        android:layout_y="332dp"
+        android:text="3.course Teacher"
+        android:textColor="@color/colorAccent"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/teacherid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="47dp"
+        android:layout_y="394dp"
+        android:text="show"
+        android:textColor="@color/colorPrimaryDark" />
+</AbsoluteLayout>

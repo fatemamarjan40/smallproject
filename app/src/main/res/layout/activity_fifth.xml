@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aust"
+    tools:context=".fifthActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="course Teacher"
+        android:textStyle="bold"
+        android:layout_marginLeft="110dp"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimaryDark"
+
+
+        />
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="course"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorAccent"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Teacher's Name"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+
+
+            />
+
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Algorithms"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorAccent"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mr. Md. Khairul Hasan"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            />
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DEPT"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorAccent"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mr.Shoeb Mohammad Shahriar"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+
+            />
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Numerical Method"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorAccent"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ms. Raqeebir Rab"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            />
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Computer Architecture"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+android:textColor="@color/colorAccent"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ms. Fathima Mirza"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            />
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Software Development Lab"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorAccent"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ms. Nowshin Nawar Arony"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            />
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Assembly Lab"
+                android:textStyle="bold"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/colorAccent"
+
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ms. Tahsin Aziz"
+                android:layout_marginLeft="10dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorAccent"
+                />
+
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DEPT Lab"
+                android:textStyle="bold"
+                android:layout_marginLeft="10dp"
+android:textColor="@color/colorAccent"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr.Shoeb Mohammad Shahriar"
+                android:layout_marginLeft="10dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorAccent"
+                />
+
+        </TableRow>
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Numerical Method Lab"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorAccent"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ms. Raqeebir Rab"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            />
+
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Algorithms Lab"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorAccent"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mr. Anik Chowdhury"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        />
+    </TableRow>
+    <Button
+        android:id="@+id/back3id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:textSize="30dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        />
+</TableLayout>
